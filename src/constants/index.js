@@ -112,7 +112,7 @@ const experiences = [
     company_name: "Trinetium Tech Pvt Ltd",
     //icon: starbucks,
     iconBg: "#383E56",
-    date: "December 2022 - January 2024",
+    date: " January 2024 -present/till now",
     points: [
       "Worked on Material UI library.", 
 "Worked on adding app tour(what’s new) feature in the product.", 
